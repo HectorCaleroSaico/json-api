@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Just4u",
+        "description": "Descubre lo nuevo en Just4u",
+        "active": true,
+        "path": "https://platanitos.com/productos?sort=discount_percentage+desc&filter_brand%5B%5D=Just4u",
+        "img_src": "1/20240726/17220331008540.webp",
+        "color": "#5154e2",
+        "content": {
+            "color": "#5154e2",
+            "counter": "1"
+        }
+    },
+    {
+        "title": "Polos platanitos",
+        "description": "Polo Unx Tshirt Jersey 160grs M/C",
+        "active": true,
+        "a_target": "https://platanitos.com/producto/platanitos-polo-unx-tshirt-jersey-160grs-m-c-negro-fdc96bizev86",
+        "img_src": "1/20240726/17220331001251.webp",
+        "color": "#5154e2",
+        "content": {
+            "color": "#5154e2",
+            "counter": "1"
+        }
+    },
+    {
+        "title": "Limoni",
+        "description": "Descubre lo nuevo en LIMONI",
+        "active": true,
+        "a_target": "https://platanitos.com/productos?sort=discount_percentage+desc&filter_brand%5B%5D=LIMONI",
+        "img_src": "1/20240726/17220331004860.webp",
+        "color": "#5154e2",
+        "content": {
+            "color": "#5154e2",
+            "counter": "1"
+        }
+    },
+    {
+        "title": "Envíos",
+        "description": "Términos y condiciones.",
+        "active": true,
+        "a_target": "https://ayuda.platanitos.com/hc/es/articles/4614682004500",
+        "img_src": "1/20240102/17042045686862.webp",
+        "color": "#56b849",
+        "content": {
+            "color": "#56b849",
+            "counter": "1"
+        }
+    }
+]

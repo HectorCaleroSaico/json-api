@@ -1,0 +1,62 @@
+[
+    {
+        "icon": "1/20220816/16606864699641.webp",
+        "title": "Regala un eGift Card",
+        "color": "49B8AD1A",
+        "message": "¿Se acerca una fecha especial y todavía no decides qué regalar? Deja que ellos elijan.",
+        "url": {
+            "title": "REGALA UN EGIFT CARD",
+            "link": "/egiftcard"
+        }
+    },
+    {
+        "icon": "1/20220816/16606864702080.webp",
+        "title": "Ubícanos",
+        "color": "49B8AD1A",
+        "message": "Tenemos más de 80 tiendas y más de 10 Lockers. Conoce cúal es el más cercano a tu ubicación.",
+        "url": {
+            "title": "VER UBICACIONES",
+            "link": "/ubicanos"
+        }
+    },
+    {
+        "icon": "1/20220816/16606864698948.webp",
+        "title": "Envios a todo el Perú",
+        "color": "4954B81A",
+        "message": "¡A dónde estés! Enviamos tus compras a cualquier parte del Perú.",
+        "url": {
+            "title": "CONOCER MÁS",
+            "link": "https://ayuda.platanitos.com/hc/es/articles/360057966891"
+        }
+    },
+    {
+        "icon": "1/20220816/16606864701336.webp",
+        "title": "Recoge en tienda",
+        "color": "49B8AD1A",
+        "message": "Retira tus compras en cualquiera de nuestras más de 80 tiendas a nivel nacional.",
+        "url": {
+            "title": "CONOCER MÁS",
+            "link": "https://ayuda.platanitos.com/hc/es/articles/360057489532"
+        }
+    },
+    {
+        "icon": "1/20220816/16606864700720.webp",
+        "title": "Recoge en eLocker",
+        "color": "49B8AD1A",
+        "message": "Recoge tus compras de forma rápida y fácil. ¿Ya conoces los eLockers?",
+        "url": {
+            "title": "CONOCER MÁS",
+            "link": "https://ayuda.platanitos.com/hc/es/articles/360057966631"
+        }
+    },
+    {
+        "icon": "1/20220816/16606864697625.webp",
+        "title": "¿Consultas o dudas?",
+        "color": "4954B81A",
+        "message": "Resolvemos todas las preguntas que tengas sobre productos o el servicio en el centro de ayuda.",
+        "url": {
+            "title": "IR AL CENTRO DE AYUDA",
+            "link": "https://ayuda.platanitos.com"
+        }
+    }
+]

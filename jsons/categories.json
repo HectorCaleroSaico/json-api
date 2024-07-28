@@ -1,0 +1,82 @@
+[
+    {
+        "id": "categories",
+        "img": "1/20240219/17083754072786.webp",
+        "activeImg": "1/20240219/17083754072786.webp",
+        "imgDark": "1/20240219/17083754072786.webp",
+        "description": "Categorías",
+        "route": "categories",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "women",
+        "img": "1/20240219/17083754075796.webp",
+        "activeImg": "1/20240219/17083754075796.webp",
+        "imgDark": "1/20240219/17083754075796.webp",
+        "description": "Mujeres",
+        "route": "category/women",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "men",
+        "img": "1/20240219/17083754074319.webp",
+        "activeImg": "1/20240219/17083754074319.webp",
+        "imgDark": "1/20240219/17083754074319.webp",
+        "description": "Hombres",
+        "route": "category/men",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "girls",
+        "img": "1/20240219/17083754077653.webp",
+        "activeImg": "1/20240219/17083754077653.webp",
+        "imgDark": "1/20240219/17083754077653.webp",
+        "description": "Niñas",
+        "route": "category/girls",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "boys",
+        "img": "1/20240219/17083754079260.webp",
+        "activeImg": "1/20240219/17083754079260.webp",
+        "imgDark": "1/20240219/17083754079260.webp",
+        "description": "Niños",
+        "route": "category/boys",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "hogar_y_cocina",
+        "img": "1/20240219/17083750585736.webp",
+        "activeImg": "1/20240219/17083750585736.webp",
+        "imgDark": "1/20240219/17083750585736.webp",
+        "description": "Hogar",
+        "route": "category/home_and_kitchen",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "offers",
+        "img": "1/20240219/17083754082697.webp",
+        "activeImg": "1/20240219/17083754082697.webp",
+        "imgDark": "1/20240219/17083754082697.webp",
+        "description": "Ofertas",
+        "route": "offers",
+        "width": 74.5,
+        "height": 35
+    },
+    {
+        "id": "news",
+        "img": "1/20240219/17083754081101.webp",
+        "activeImg": "1/20240219/17083754081101.webp",
+        "imgDark": "1/20240219/17083754081101.webp",
+        "description": "Novedades",
+        "route": "news",
+        "width": 74.5,
+        "height": 35
+    }
+]

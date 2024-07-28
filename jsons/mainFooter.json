@@ -1,0 +1,93 @@
+[
+    {
+        "id": "followme",
+        "title": "¡Síguenos!",
+        "message": "Estamos en las redes sociales con super promociones",
+        "list": [
+            {
+                "title": "Facebook",
+                "url": "https://www.facebook.com/platanitos/",
+                "img": "1/20231212/17024183386858.webp"
+            },
+            {
+                "title": "Instagram",
+                "url": "https://www.instagram.com/platanitosperu/",
+                "img": "1/20231212/17024144705313.webp"
+            },
+            {
+                "title": "Tiktok",
+                "url": "https://www.tiktok.com/@platanitosperu?",
+                "img": "1/20231212/17024183389026.webp"
+            },
+            {
+                "title": "Youtube",
+                "url": "https://www.youtube.com/channel/UCDCUU2oFIFsE_rJg5glHWmw",
+                "img": "1/20231212/17024183392125.webp"
+            },
+            {
+                "title": "Twitter",
+                "url": "https://twitter.com/platanitos_",
+                "img": "1/20231212/17024183394325.webp"
+            }
+        ]
+    },
+    {
+        "id": "applications",
+        "title": "Descarga la app Platanitos",
+        "message": "Descarga tu aplicación en la tienda correspondiente",
+        "list": [
+            {
+                "title": "Google - Play Store",
+                "url": "https://play.google.com/store/apps/details?id=com.platanitos.platanitosapp",
+                "img": "1/20231026/16983355248369.webp"
+            },
+            {
+                "title": "Apple - App Store",
+                "url": "https://apps.apple.com/app/id1093153586",
+                "img": "1/20231226/17036221852135.webp"
+            }
+        ]
+    },
+    {
+        "id": "payments",
+        "title": "Métodos de pago",
+        "message": "Tienes todas estas opciones de pago",
+        "list": [
+            {
+                "title": "Visa",
+                "url": "https://www.visa.com.pe",
+                "img": "1/20231020/16978377875794.webp"
+            },
+            {
+                "title": "Mastercard",
+                "url": "https://www.mastercard.com.pe/es-pe.html",
+                "img": "1/20231020/16978377874257.webp"
+            },
+            {
+                "title": "American Express",
+                "url": "https://www.americanexpress.com/es-pe/network/",
+                "img": "1/20231020/16978377872743.webp"
+            },
+            {
+                "title": "Dinners Club",
+                "url": "https://www.dinersclub.pe",
+                "img": "1/20231020/16978377873493.webp"
+            },
+            {
+                "title": "Pago Efectivo",
+                "url": "https://www.pagoefectivo.la/pe/",
+                "img": "1/20231020/16978377875009.webp"
+            },
+            {
+                "title": "Yape",
+                "url": "https://www.yape.com.pe",
+                "img": "1/20231024/16981657293133.webp"
+            },
+            {
+                "title": "Plin",
+                "url": "https://plin.pe",
+                "img": "1/20231024/16981657291807.webp"
+            }
+        ]
+    }
+]
